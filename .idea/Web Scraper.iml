@@ -7,6 +7,31 @@
       <excludeFolder url="file://$MODULE_DIR$/Web Scraper/The Soup is Real" />
       <excludeFolder url="file://$MODULE_DIR$/Web Scraper/Wanna Talk to the Internet?" />
       <excludeFolder url="file://$MODULE_DIR$/Web Scraper/What the File?" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/beautifulsoup4-4.9.3.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/certifi-2020.12.5.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/chardet-3.0.4.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/furl-2.1.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/hs_test_python-4.0.0-py3.9.egg-info" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/idna-2.10.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/orderedmultidict-1.0.1.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/psutil-5.8.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/requests-2.24.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/six-1.15.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/soupsieve-2.2.1.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/tests" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/urllib3-1.25.11.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/frameworkLessonHistory" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/bs4" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/certifi" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/chardet" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/furl" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/hstest" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/idna" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/orderedmultidict" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/psutil" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/requests" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/soupsieve" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/VirtualEnvironment/lib/python3.9/site-packages/urllib3" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
